@@ -1,3 +1,4 @@
+require 'scraperwiki'
 ###############################################################################
 # START HERE: Tutorial for scraping ASP.NET pages (HTML pages that end .aspx), using the
 # very powerful Mechanize library. In general, when you follow a 'next' link on 
