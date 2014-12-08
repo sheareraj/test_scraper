@@ -55,9 +55,9 @@ puts page.body
 
 form = page.form
 form['txbNom'] = 'Tremblay'
-page = form.submit
+page2 = form.submit
 
 # start scraping
 #scrape_and_look_for_next_link(page)
-puts page.body
+puts page2.body
 
